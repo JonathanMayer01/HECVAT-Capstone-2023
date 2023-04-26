@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HECVAT_Survery", "HECVAT_Survery\HECVAT_Survery.csproj", "{406A0862-7645-46C3-9186-22EAC4E3D466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406A0862-7645-46C3-9186-22EAC4E3D466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406A0862-7645-46C3-9186-22EAC4E3D466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406A0862-7645-46C3-9186-22EAC4E3D466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406A0862-7645-46C3-9186-22EAC4E3D466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2CBC3C3-091B-4FBA-837A-A18F9C34063A}
+	EndGlobalSection
+EndGlobal

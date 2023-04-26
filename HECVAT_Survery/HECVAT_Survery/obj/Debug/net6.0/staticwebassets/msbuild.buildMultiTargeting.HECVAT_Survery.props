@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HECVAT_Survery.props" />
+</Project>
