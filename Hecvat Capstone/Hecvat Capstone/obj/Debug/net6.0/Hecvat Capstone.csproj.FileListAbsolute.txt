@@ -1,8 +1,0 @@
-C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\Hecvat Capstone\Hecvat Capstone\obj\Debug\net6.0\Hecvat Capstone.csproj.AssemblyReference.cache
-C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\Hecvat Capstone\Hecvat Capstone\obj\Debug\net6.0\Hecvat Capstone.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\Hecvat Capstone\Hecvat Capstone\obj\Debug\net6.0\Hecvat Capstone.AssemblyInfoInputs.cache
-C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\Hecvat Capstone\Hecvat Capstone\obj\Debug\net6.0\Hecvat Capstone.AssemblyInfo.cs
-C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\Hecvat Capstone\Hecvat Capstone\obj\Debug\net6.0\Hecvat Capstone.csproj.CoreCompileInputs.cache
-C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\Hecvat Capstone\Hecvat Capstone\obj\Debug\net6.0\Hecvat Capstone.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\Hecvat Capstone\Hecvat Capstone\obj\Debug\net6.0\Hecvat Capstone.RazorAssemblyInfo.cache
-C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\Hecvat Capstone\Hecvat Capstone\obj\Debug\net6.0\Hecvat Capstone.RazorAssemblyInfo.cs

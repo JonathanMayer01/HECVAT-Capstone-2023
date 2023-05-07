@@ -1,0 +1,388 @@
+﻿@page
+@model HECVAT_Survery.Pages.Page2_Brett_Model
+@{
+}
+<table>
+    <thead>
+        <tr>
+            <th>Question</th>
+            <th>Answer</th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+        <tr>
+            <td>
+                21) Are access controls for institutional accounts based on structured roles, such as role-based access control (RBAC), attribute-based access control (ABAC) or policy-based access control (PBAC)?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer21" value="yes" />Yes
+                    <input type="radio" name="answer21" value="no"/>No
+                </label>
+              
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                22) Are access controls for staff within your organization
+                based on structured rules, such as RBAC, ABAC, or PBAC?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer22" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer22" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                23) Do you have a documented and currently implemented
+                strategy for securing employee workstations when they
+                work remotely? (i.e. not in a trusted computing environment)
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer23" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer23" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                24) Does the system provide data input validation and error
+                messages?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer24" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer24" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>25) Are you using a web application firewall (WAF)? </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer25" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer25" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                26) Do you have a process and implemented procedures for managing
+                your software supply chain (e.g. libraries, repositories,
+                frameworks, etc)?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer26" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer26" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                27) Does your solution support single sign-on (SSO)
+                protocols for user and administrator authentication?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer27" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer27" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                28) Does your organization participate in InCommon or
+                another eduGAIN affiliated trust federation?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer28" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer28" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                29) Does your application support integration with other authentication
+                and authorization systems?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer29" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer29" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                30) Does your solution support any of the following Web SSO
+                standards? [e.g., SAML2 (with redirect flow), OIDC, CAS, or other]
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer30" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer30" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                31) Do you support differentiation between email address and
+                user identifier?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer31" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer31" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                32) Do you allow the customer to specify attribute
+                mappings for any needed information beyond a user
+                identifier? [e.g., Reference eduPerson, ePPA/ePPN/ePE]
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer32" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer32" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                33) Are audit logs available to the institution that include
+                AT LEAST all of the following: login, logout, actions performed,
+                timestamp, and source IP address?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer33" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer33" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                34) If you don't support SSO, does your application and/or
+                user-frontend/portal support multi-factor authentication? (e.g. Duo,
+                Google Authenticator, OTP, etc.)
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer34" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer34" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                35) Does your application automatically lock the session or log-out
+                an account after a period of inactivity?
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer35" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer35" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                36) Do you have a systems management and configuration strategy that
+                encompasses servers, appliances, cloud services, applications, and
+                mobile devices (company and employee owned)?
+
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer36" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer36" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                37) Does the environment provide for dedicated single-tenant
+                capabilities? If not, describe how your product or environment
+                separates data from different customers (e.g., logically, physically
+                single tenancy, multi-tenancy).
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer37" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer37" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                38) Is sensitive data encrypted, using secure protocols/algorithms,
+                in transport? (e.g. system-to-client)
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer38" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer38" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                39) Is sensitive data encrypted, using secure protocols/algorithms,
+                in storage? (e.g. disk encryption, at-rest, files, and within a
+                running database)
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer39" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer39" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                40) Does your staff (or third party) have access to Institutional
+                data (e.g., financial, PHI or other sensitive information) within
+                the application/system?
+
+            </td>
+            <td>
+                <label>
+                    <input type="radio" name="answer40" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer40" value="no" />
+                    No
+                </label>
+
+            </td>
+        </tr>
+
+
+
+    </tbody>
+</table>
+
+
+<form method="get">
+    <button type="Next Page" class="btn btn-primary" asp-page="/Page3(Jennifer)">Next Page</button>
+</form>

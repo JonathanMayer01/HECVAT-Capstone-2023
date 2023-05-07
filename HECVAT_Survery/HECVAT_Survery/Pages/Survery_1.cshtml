@@ -1,0 +1,227 @@
+﻿@page
+@model HECVAT_Survery.Pages.Survery_1Model
+@{
+}
+
+<script> //javascript popup
+    function myFunction() {
+        var popup = document.getElementById("myPopup");
+        popup.classList.toggle("show");
+    }
+</script>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Question</th>
+            <th>Answer</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td>1) Have you had an unplanned disruption to this product/service within the last 12 months?</td>
+            <td>
+                <label>
+                    <input type="radio" name="answer1" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer1" value="no" />
+                    No
+                </label>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td>2) Does your service have a dedicated Information Security staff or office?</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer2"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>3) Does your service have a dedicated Software and Systems Development team? Including but not limited
+                to Customer Support and Product Management teams?
+            </td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer3"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>4) Have you recently undergone a <a target="_blank" rel="noopener noreferrer" href="https://www.preludeservices.com/about-us/ssae-18-audit-standards/">SSAE 18 / SOC2 audit</a>?</td>
+
+            <td>
+                <label>
+                    <input type="radio" name="answer4" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer4" value="no" />
+                    No
+                </label>
+            </td>
+
+        </tr>
+        <tr>
+            <td>5) Do the service you provide confirm with a specific industry standard of security framework? Such as <a target="_blank" rel="noopener noreferrer" href=" https://hitachi-systems-security.com/nist-cis-sans-20-iso-27001-simplifying-security-control-assessments/">NIST Cybersecurity Framework, CIS Controls, ISO 27001</a>, or etc.. Please explain.</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer5"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>6) Can you provide an overall system and/or application architecture diagrams including a full description of the data flow for all components of the system?</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer6"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>7) Does your organization have a data privacy policy? Please provide a description at how student/facality information might be stored/used.</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer7"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>8) Do you have a documented, and currently implemented, employee onboarding and offboarding policy?</td>
+            <td>
+                <label>
+                    <input type="radio" name="answer8" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer8" value="no" />
+                    No
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>9) Do you have a well documented Business Continuity Plan (BCP) that is tested annually?</td>
+            <td>
+                <label>
+                    <input type="radio" name="answer9" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer9" value="no" />
+                    No
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>10) Do you have a well documented Disaster Recovery Plan (DRP) that is tested annually?</td>
+            <td>
+                <label>
+                    <input type="radio" name="answer10" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer10" value="no" />
+                    No
+                </label>
+            </td>
+        </tr>
+
+        <tr>
+            <td>11) Do you have a documented change management process?</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer11"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>12) Has a third party expert conducted an accessibility audit of the most recent version of your product?</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer12"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>13) Do you have a documented and implemented process for verifying accessibility conformance?</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer13"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>14) Have you adopted a technical or legal accessibility standard of conformance for the product in question?</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer14"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>15) Can you provide a current, detailed accessibility roadmap with delivery timelines?</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer15"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>16) Do you expect your staff to maintain a current skill set in IT accessibility?</td>
+            <td>
+                <textarea type="text" cols="40" rows="2" style="resize: none;" name="answer16"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>17) Do you have a documented and implemented process for reporting and tracking accessibility issues?</td>
+            <td>
+                <label>
+                    <input type="radio" name="answer17" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer17" value="no" />
+                    No
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>18) Do you have documented processes and procedures for implementing accessibility into your development lifecycle?</td>
+            <td>
+                <label>
+                    <input type="radio" name="answer18" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer18" value="no" />
+                    No
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>19) Can all functions of the application or service be performed using only the keyboard?</td>
+            <td>
+                <label>
+                    <input type="radio" name="answer19" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer19" value="no" />
+                    No
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>20) Does your product rely on activating a special ‘accessibility mode’ a ‘lite version’ or accessing an alternate interface for accessibility purposes?</td>
+            <td>
+                <label>
+                    <input type="radio" name="answer20" value="yes" />
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="answer20" value="no" />
+                    No
+                </label>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+
+
+@*
+<div class="popup" onclick="myFunction()">
+    Click me to toggle the popup!
+    <span class="popuptext" id="myPopup">A Simple Popup!</span>
+</div>
+*@
+
+<form method="get">
+    <button type="Next Page" class="btn btn-primary" asp-page="/Page2(Brett)">Next Page</button>
+</form>

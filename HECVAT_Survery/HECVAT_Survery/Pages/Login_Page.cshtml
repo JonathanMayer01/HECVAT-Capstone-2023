@@ -1,0 +1,156 @@
+﻿@page
+@model HECVAT_Survery.Pages.Login_PageModel
+@{
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VendorWise</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="intro-section">
+        <h1> VendorWise</h1>
+        <p>
+            VendorWise is a Higher Education Community Vendor Assessment Toolkit designed to simplify the process
+            of assessing and selecting vendors for educational institutions.  With VendorWise, you can streamline
+            your vendor selection process and ensure that you're choosing the right partners for your institution.
+        </p>
+    </div>
+    <div class="wrapper">
+        <div class="form-holder">
+            <img src="https://th.bing.com/th/id/R.6cbd6de89e012eb68d7c942eb0d13f67?rik=GswDL3vV1LQIUg&riu=http%3a%2f%2f3.bp.blogspot.com%2f_gx12Su4zZ3Q%2fTP0v_1h4iDI%2fAAAAAAAAANc%2fHhF62D6mK20%2fw1200-h630-p-k-no-nu%2fDigital%2bUniverse%2b%252528161%252529.JPG&ehk=VcwJ9Zgrszy7gA%2bF2xK4RDULEUni%2b9aHh9%2fq3gSzVgs%3d&risl=&pid=ImgRaw&r=0" class="background" alt="">
+            <h2>Login</h2>
+            <form action="" class="form">
+                <div class="form-group">
+                    <input type="text" placeholder="User name">
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Password">
+                </div>
+                <div class="form-group">
+                    <button type="submit">Sign in</button>
+                </div>
+                <div class="form-group">
+                    <a href="forgot-password.html">Forgot Password?</a>
+                    <button type="button" onclick="window.location.href='signup-form.html'">Sign Up</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <style>
+        /* Global styles */
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            background-color: #ffffff;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: "Segoe UI", sans-serif;
+            font-weight: bold;
+            color: #ece8e8;
+            margin: 0;
+        }
+
+        p {
+            margin: 0;
+            color: #fff9f9;
+        }
+
+        /* Header styles */
+        .intro-section {
+            padding: 50px 20px;
+            text-align: center;
+        }
+
+            .intro-section h1 {
+                font-size: 48px;
+                margin-bottom: 20px;
+            }
+
+            .intro-section p {
+                font-size: 18px;
+                color: #d3c8c8;
+            }
+
+        /* Form styles */
+        .form-holder {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: rgba(255, 255, 255, 0.8); /* make the background slightly transparent */
+            box-shadow: 0 2px 10px rgba(245, 244, 244, 0.1);
+        }
+
+            .form-holder h2 {
+                font-size: 36px;
+                margin-bottom: 30px;
+                color: #3d3c3c;
+            }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+            .form-group input[type="text"],
+            .form-group input[type="password"] {
+                width: 100%;
+                padding: 10px;
+                border: none;
+                border-bottom: 2px solid #ccc;
+                font-size: 16px;
+                color: #333;
+                outline: none;
+                background-color: transparent;
+                opacity: 1;
+            }
+
+                .form-group input[type="text"]:focus,
+                .form-group input[type="password"]:focus {
+                    border-color: #0066cc;
+                }
+
+            .form-group button[type="submit"],
+            .form-group button[type="button"] {
+                display: block;
+                width: 100%;
+                padding: 10px;
+                border: none;
+                background-color: #0066cc;
+                color: #fff;
+                font-size: 16px;
+                font-weight: bold;
+                cursor: pointer;
+            }
+
+                .form-group button[type="submit"]:hover,
+                .form-group button[type="button"]:hover {
+                    background-color: #0052a3;
+                }
+
+            .form-group a {
+                color: #0066cc;
+                text-decoration: none;
+            }
+
+        /* Background image */
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+            filter: brightness(0.5);
+        }
+    </style>
+
+
+</body>
+</html>

@@ -1,0 +1,183 @@
+﻿@page
+@model HECVAT_Survery.Pages.Signup_FormModel
+@{
+}
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content=""width=device-width, initial-scale="1.0">
+        <title>Sign Up Form</title>
+        <link rel ="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <h1>Sign Up to be Wise</h1>
+        <form action="" class="form">
+            <h2> Vendor Contact Information </h2>
+            <div class = "form-group">
+                <label for="username">Vendor Name: </label>
+                <input type="text" id = "username" name="username">
+            </div>
+
+            <div class="form-group">
+                <label for="email">Vendor Email:</label>
+                <input type="email" id="email" name="email">
+            </div>
+
+            <div class="form-group">
+                <label for="Vendor Contact Phone Number">Vendor Contact Phone Number:</label>
+                <input type="Vendor Contact Phone Number" id="Vendor Contact Phone Number" name="Vendor Contact Phone Number">
+            </div>
+
+            <div class="form-group">
+                <label for="Vendor Work Locations">Vendor Work Locations:</label>
+                <input type="Vendor Work Locations" id="Vendor Work Locations" name="Vendor Work Locations">
+            </div>
+            
+            <h3>Product Details </h3>
+            <div class="form-group">
+                <label for="productName">Product Name:</label>
+                <input type="productName" id="productName" name="productName">
+            </div>
+            
+            <div class="form-group">
+                <label for="productDescription">Product Description:</label>
+                <input type="productDescription" id="productDescription" name="productDescription">
+            </div>
+            
+            <div class="form-group">
+                <label for="Web Link to Product Privacy Notice">Web Link to Product Privacy Notice:</label>
+                <input type="Web Link to Product Privacy Notice" id="Web Link to Product Privacy Noticed" name="Web Link to Product Privacy Notice">
+            </div>
+            
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password">
+            </div>
+            
+            <div class="form-group">
+                <label for="confirm-password">Confirm Password:</label>
+                <input type="password" id="confirm-password" name="confirm-password">
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="button">Submit</button>
+            </div>
+
+            <p class="form-note">Already have an account? <a href="login.html">Log in</a></p>
+		</form>
+	</div>
+	<footer>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Products</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</nav>
+		<p>&copy; 2023 Wise. All rights reserved.</p>
+	</footer>
+
+
+    <style>
+      * {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  background-image: url("https://images.pexels.com/photos/46168/space-telescope-mirror-segments-james-webb-cosmos-46168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 50px;
+  color: #ffffff;
+}
+
+form {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px #ddd;
+  padding: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+h3 {
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0px 0px 10px #dddddd;
+  font-size: 16px;
+  color: #666;
+}
+
+input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  margin-top: 20px;
+  display: block;
+}
+
+input[type="submit"]:hover {
+  background-color: #0069d9;
+}
+
+.form-note {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #333;
+}
+
+.form-note a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+    </style>
+        
+    </body>
+</html>
