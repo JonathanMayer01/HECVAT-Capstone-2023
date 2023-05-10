@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\Documents\\GitHub\\HECVAT-Capstone-2023\\HECVAT_Survery\\HECVAT_Survery\\HECVAT_Survery.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\College.HS\\Elmhurst\\4th Semester\\Software Engineering (CS-475)\\Capstone Project\\HECVAT_Survery\\HECVAT_Survery\\HECVAT_Survery.csproj",
       "projectName": "HECVAT_Survery",
-      "projectPath": "C:\\Users\\Jonathan\\Documents\\GitHub\\HECVAT-Capstone-2023\\HECVAT_Survery\\HECVAT_Survery\\HECVAT_Survery.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Desktop\\College.HS\\Elmhurst\\4th Semester\\Software Engineering (CS-475)\\Capstone Project\\HECVAT_Survery\\HECVAT_Survery\\HECVAT_Survery.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\Documents\\GitHub\\HECVAT-Capstone-2023\\HECVAT_Survery\\HECVAT_Survery\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Desktop\\College.HS\\Elmhurst\\4th Semester\\Software Engineering (CS-475)\\Capstone Project\\HECVAT_Survery\\HECVAT_Survery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",

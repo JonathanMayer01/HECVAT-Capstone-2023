@@ -21,7 +21,7 @@
     </div>
     <div class="wrapper">
         <div class="form-holder">
-            <img src="https://th.bing.com/th/id/R.6cbd6de89e012eb68d7c942eb0d13f67?rik=GswDL3vV1LQIUg&riu=http%3a%2f%2f3.bp.blogspot.com%2f_gx12Su4zZ3Q%2fTP0v_1h4iDI%2fAAAAAAAAANc%2fHhF62D6mK20%2fw1200-h630-p-k-no-nu%2fDigital%2bUniverse%2b%252528161%252529.JPG&ehk=VcwJ9Zgrszy7gA%2bF2xK4RDULEUni%2b9aHh9%2fq3gSzVgs%3d&risl=&pid=ImgRaw&r=0" class="background" alt="">
+            <img src="/images/286877.jpg" class="background" alt=""> @*This part needs fixing*@
             <h2>Login</h2>
             <form action="" class="form">
                 <div class="form-group">
@@ -30,12 +30,27 @@
                 <div class="form-group">
                     <input type="password" placeholder="Password">
                 </div>
-                <div class="form-group">
+
+
+                @*<div class="form-group">
                     <button type="submit">Sign in</button>
-                </div>
+                </div>*@
                 <div class="form-group">
-                    <a href="forgot-password.html">Forgot Password?</a>
-                    <button type="button" onclick="window.location.href='signup-form.html'">Sign Up</button>
+                    <button type="submit" class="btn btn-primary" asp-page="/Survery_1">Sign In</button>
+                </div>
+
+
+                <div class="form-group">
+                    @*<a href="forgot-password.html">Forgot Password?</a>*@
+
+                    @*<button type="button" onclick="window.location.href='signup-form.html'">Sign Up</button>*@
+                   
+                    <form method="get">
+                        <button type="submit" class="btn btn-primary" asp-page="/Signup-Form">Sign Up</button>
+                    </form>
+
+
+
                 </div>
             </form>
         </div>

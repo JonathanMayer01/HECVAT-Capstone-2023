@@ -29,34 +29,3 @@ C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering 
 C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.pdb
 C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.genruntimeconfig.cache
 C:\Users\Jonathan\Desktop\College.HS\Elmhurst\4th Semester\Software Engineering (CS-475)\Capstone Project\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\ref\HECVAT_Survery.dll
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\bin\Debug\net6.0\appsettings.json
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\bin\Debug\net6.0\HECVAT_Survery.staticwebassets.runtime.json
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\bin\Debug\net6.0\HECVAT_Survery.exe
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\bin\Debug\net6.0\HECVAT_Survery.deps.json
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\bin\Debug\net6.0\HECVAT_Survery.runtimeconfig.json
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\bin\Debug\net6.0\HECVAT_Survery.dll
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\bin\Debug\net6.0\HECVAT_Survery.pdb
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.csproj.AssemblyReference.cache
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.AssemblyInfoInputs.cache
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.AssemblyInfo.cs
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.csproj.CoreCompileInputs.cache
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.RazorAssemblyInfo.cache
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.RazorAssemblyInfo.cs
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\staticwebassets\msbuild.HECVAT_Survery.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\staticwebassets\msbuild.build.HECVAT_Survery.props
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HECVAT_Survery.props
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HECVAT_Survery.props
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\scopedcss\bundle\HECVAT_Survery.styles.css
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\scopedcss\projectbundle\HECVAT_Survery.bundle.scp.css
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.dll
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\refint\HECVAT_Survery.dll
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.pdb
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\HECVAT_Survery.genruntimeconfig.cache
-C:\Users\Jonathan\Documents\GitHub\HECVAT-Capstone-2023\HECVAT_Survery\HECVAT_Survery\obj\Debug\net6.0\ref\HECVAT_Survery.dll
